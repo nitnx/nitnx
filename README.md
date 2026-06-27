@@ -1,12 +1,87 @@
-<h1 align="center">Hi 👋, I'm Nitin</h1>
+<div align="center">
 
-- 🔭 I’m currently working on **a web scraping API that generates clean datasets for ML model training**
+# nitin
 
-- 🌱 I’m currently learning **Docker, GCP, and system design**
+<sub>open source · ai systems · full stack</sub>
 
+<br>
 
-<p align="left">
-</p>
+building practical ai products, developer tools, and contributing to open source.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br>
+
+[![linkedin](https://img.shields.io/badge/linkedin-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![portfolio](https://img.shields.io/badge/portfolio-1a1a1a?style=flat-square&logo=githubpages&logoColor=white)](YOUR_PORTFOLIO)
+[![email](https://img.shields.io/badge/email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+### about
+
+cs student solving real-world problems through software. i work across **ai systems**, **developer tools**, **open source**, and **accessibility-focused apps** — building software that's reliable, maintainable, and genuinely useful.
+
+---
+
+### featured work
+
+**🤖 resolveai** — autonomous ai support triage & resolution copilot
+
+intent classification · sentiment analysis · in-memory rag · confidence & risk gates · live agent dashboard · automated refund/replacement workflows
+
+`react` `typescript` `node.js` `sqlite` `rag`
+↳ [github.com/nitnx/ResolveAI](https://github.com/nitnx/ResolveAI)
+
+<br>
+
+**📖 easeread** — accessibility-first ai reading assistant
+
+plain-language rewriting · dyslexia-friendly mode · adjustable typography · read-aloud · demo mode
+
+`next.js` `typescript` `tailwind` `ai`
+↳ [github.com/nitnx/easeread](https://github.com/nitnx/easeread)
+
+---
+
+### open source
+
+- implemented support for `numpy.insert` in **numba**
+- exploring contributions across the python ecosystem
+- working towards larger open-source contributions
+
+---
+
+### stack
+
+![Python](https://img.shields.io/badge/python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-1a1a1a?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-1a1a1a?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-1a1a1a?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/google%20cloud-1a1a1a?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-1a1a1a?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
+### stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=nitnx&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=4d4d4d&icon_color=1a1a1a)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitnx&layout=compact&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=4d4d4d)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub><i>build things that are genuinely useful.</i></sub>
+
+</div>
