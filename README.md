@@ -26,21 +26,11 @@ cs student solving real-world problems through software. i work across **ai syst
 
 ### featured work
 
-**🤖 resolveai** — autonomous ai support triage & resolution copilot
-
-intent classification · sentiment analysis · in-memory rag · confidence & risk gates · live agent dashboard · automated refund/replacement workflows
-
+**🤖 resolveai** — intent classification · in-memory rag · confidence & risk gates
 `react` `typescript` `node.js` `sqlite` `rag`
-↳ [github.com/nitnx/ResolveAI](https://github.com/nitnx/ResolveAI)
 
-<br>
-
-**📖 easeread** — accessibility-first ai reading assistant
-
-plain-language rewriting · dyslexia-friendly mode · adjustable typography · read-aloud · demo mode
-
+**📖 easeread** — plain-language rewriting · dyslexia-friendly mode · read-aloud
 `next.js` `typescript` `tailwind` `ai`
-↳ [github.com/nitnx/easeread](https://github.com/nitnx/easeread)
 
 ---
 
