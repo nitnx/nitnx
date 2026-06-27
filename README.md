@@ -10,9 +10,9 @@ building practical ai products, developer tools, and contributing to open source
 
 <br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![portfolio](https://img.shields.io/badge/portfolio-1a1a1a?style=flat-square&logo=githubpages&logoColor=white)](YOUR_PORTFOLIO)
-[![email](https://img.shields.io/badge/email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![linkedin](https://img.shields.io/badge/linkedin-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitnx)
+[![portfolio](https://img.shields.io/badge/portfolio-1a1a1a?style=flat-square&logo=githubpages&logoColor=white)](https://your-portfolio-link.com)
+[![email](https://img.shields.io/badge/email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:nitin10296@gmail.com)
 
 </div>
 
@@ -46,9 +46,9 @@ plain-language rewriting · dyslexia-friendly mode · adjustable typography · r
 
 ### open source
 
-- implemented support for `numpy.insert` in **numba**
-- exploring contributions across the python ecosystem
-- working towards larger open-source contributions
+- contributing to the python scientific ecosystem
+- exploring issues across open source projects
+- working towards larger, sustained contributions
 
 ---
 
