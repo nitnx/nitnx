@@ -2,7 +2,7 @@
 
 # nitin
 
-<sub>open source · ai systems · full stack</sub>
+<sub>open source · ai systems · developer tools</sub>
 
 <br>
 
