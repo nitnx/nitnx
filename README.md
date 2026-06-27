@@ -11,7 +11,7 @@ building practical ai products, developer tools, and contributing to open source
 <br>
 
 [![linkedin](https://img.shields.io/badge/linkedin-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitnx)
-[![portfolio](https://img.shields.io/badge/portfolio-1a1a1a?style=flat-square&logo=githubpages&logoColor=white)](https://your-portfolio-link.com)
+[![portfolio](https://img.shields.io/badge/portfolio-1a1a1a?style=flat-square&logo=githubpages&logoColor=white)](https://nitnx.github.io)
 [![email](https://img.shields.io/badge/email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:nitin10296@gmail.com)
 
 </div>
